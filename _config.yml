@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "SM-N920S"
 description              : "No Democracy Party, No New Korea"
-url                      : "https://smn920s.github.io"
+url                      : "https://smn921s.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "smn920s/smn920s.github.io"
+repository               : "smn920s/smn921s.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
